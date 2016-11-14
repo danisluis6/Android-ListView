@@ -231,8 +231,8 @@
 	    }
 	}
 
-![alt tag](https://github.com/danisluis6/Android-ListViewLevel1/blob/master/ListViewA/1.png)
-![alt tag](https://github.com/danisluis6/Android-ListViewLevel1/blob/master/ListViewA/2.png)
+![alt tag](https://github.com/danisluis6/Android-ListView/blob/master/ListViewD/1.png)
+![alt tag](https://github.com/danisluis6/Android-ListView/blob/master/ListViewD/2.png)
 
     - ReadMore: http://www.androidhive.info/2013/07/android-expandable-list-view-tutorial/        
 
